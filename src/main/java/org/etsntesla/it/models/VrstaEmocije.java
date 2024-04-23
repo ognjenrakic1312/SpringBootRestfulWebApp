@@ -1,4 +1,12 @@
-package org.etsntesla.it.models;
+package org.etsntesla.it;
 
-public class VrstaEmocije {
+public enum VrstaEmocije {
+    Radost,
+    Ljutnja,
+    Tuga,
+    Ljubav,
+    Nada,
+    Zavist,
+    Ponos,
+    Smirenost
 }
